@@ -3,6 +3,6 @@ const externalModule = require('external-module'); // Example of using an extern
 
 exports.handler = async (event) => {
     console.log('Hello World jnana');
-    return 'Hello World';
+    return 'Hello World jnana';
 };
 
