@@ -8,8 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "external-module": "^0.0.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
